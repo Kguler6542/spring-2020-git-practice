@@ -4,4 +4,6 @@ red
 yellow
 orange
 ###white
+orange
+purple
 
