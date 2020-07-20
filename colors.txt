@@ -1,8 +1,6 @@
 red
 pink
-<<<<<<< HEAD
 red
 yellow
-=======
 orange 
->>>>>>> 6a18726951636dd4eff78b347d3551de176e4fc8
+
